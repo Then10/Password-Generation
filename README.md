@@ -1,9 +1,9 @@
-# Recriando a pagina onepiece 🎮
+# Gerador de senhas 🎮
 # 📃 Descrição
 Gerador de senhas para uso diario.
 # 🖱️ Acesso
 
-A Interface Web pode ser acessada [aqui](http://www.thenilson.com/onepiece/).
+A Interface Web pode ser acessada [aqui](http://www.thenilson.com/newpassword/).
 
 # 💻 Tecnologias Utilizadas para o desenvolvimento:
 
